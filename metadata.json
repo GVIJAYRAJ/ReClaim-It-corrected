@@ -1,0 +1,8 @@
+{
+  "name": "Reclaim It",
+  "description": "Campus Lost and Found Management System with intelligent item matching, image galleries, claim verification, Gmail alerts, and Google Sheets recovery logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
