@@ -1,5 +1,7 @@
 # ReClaim It — Campus Lost & Found
 
+Live demo link - https://reclaim-it-corrected.onrender.com/
+
 This full-stack project uses React + TypeScript + Vite, Node.js + Express, SQLite (`better-sqlite3`), Firebase Authentication for Google sign-in, and Google Gemini for optional AI features. It is not a Django/MySQL build.
 
 ## Requirements
